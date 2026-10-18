@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">melvin@github:~$ whoami</h1>
 
-<!--
-**Melvin-Gounder/Melvin-Gounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Software Engineering Student • Developer • Fiji 🇫🇯</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building cool things, one commit at a time.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+```bash
+melvin@github:~$ cat about_me.txt
+
+Name       : Melvin A. Gounder
+Role       : Software Engineering Student
+Location   : Fiji 🇫🇯
+Focus      : Software Development
+Learning   : Java | Spring Boot | Cloud | Networking
+Status     : Building...
+```
