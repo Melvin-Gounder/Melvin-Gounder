@@ -201,22 +201,72 @@ READY.
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div class="socials" align="center">
+  <a href="YOUR_LINKEDIN_URL" target="_blank" class="social linkedin">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/all_to_ashes/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="YOUR_INSTAGRAM_URL" target="_blank" class="social instagram">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram">
   </a>
-  <a href="YOUR_TIKTOK_URL">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+
+  <a href="YOUR_TIKTOK_URL" target="_blank" class="social tiktok">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok">
   </a>
-  <a href="YOUR_DISCORD_URL">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
+  <a href="YOUR_DISCORD_URL" target="_blank" class="social discord">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord">
   </a>
-</p>
+</div>
+
+<style>
+  .socials {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+
+  .social {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #111;
+    transition: all 0.3s ease;
+    text-decoration: none;
+  }
+
+  .social img {
+    width: 28px;
+    height: 28px;
+    filter: invert(1);
+  }
+
+  .linkedin:hover {
+    box-shadow: 0 0 20px #0077B5, 0 0 40px #0077B5;
+    transform: translateY(-5px) scale(1.08);
+  }
+
+  .instagram:hover {
+    box-shadow: 0 0 20px #E4405F, 0 0 40px #E4405F;
+    transform: translateY(-5px) scale(1.08);
+  }
+
+  .tiktok:hover {
+    box-shadow: 0 0 20px #25F4EE, 0 0 40px #FE2C55;
+    transform: translateY(-5px) scale(1.08);
+  }
+
+  .discord:hover {
+    box-shadow: 0 0 20px #5865F2, 0 0 40px #5865F2;
+    transform: translateY(-5px) scale(1.08);
+  }
+</style>
 
 ---
 
