@@ -28,3 +28,10 @@ Focus      : Software Development
 Learning   : Java | Spring Boot | Cloud | Networking
 Status     : Building...
 ```
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,spring,mysql,git,github,linux,vscode,eclipse" />
+</p>
