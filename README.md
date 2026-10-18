@@ -181,17 +181,6 @@ Cloud Computing Projects
   Fire up DOOM and take a quick break.
 </p>
 
-<pre>
-melvin@github:~$ ./play-doom
-
-[ OK ] Loading boredom-killer
-[ OK ] Mounting Freedoom WAD
-[ OK ] Starting WebAssembly engine
-[ OK ] Launch sequence complete
-
-&gt; Press play and rip and tear.
-</pre>
-
 <p align="center">
   <a href="https://melvin-gounder.github.io/doom-web/">
     <img
