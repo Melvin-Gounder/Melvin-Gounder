@@ -67,21 +67,23 @@ Status     : Building...
 
 ---
 
+---
+
 ## 🐍 Contribution Activity
 
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/gh-pages/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/gh-pages/github-snake.svg"
     />
     <img
       alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/gh-pages/github-snake.svg"
     />
   </picture>
 </p>
