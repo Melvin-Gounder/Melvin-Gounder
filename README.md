@@ -1,4 +1,3 @@
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+Cloud;Building+cool+things+one+commit+at+a+time;Learning.+Building.+Improving."
@@ -42,7 +41,7 @@ Status     : Building...
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
----
+
 
 ## ⚙️ Tech Stack
 
