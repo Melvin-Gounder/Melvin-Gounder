@@ -1,4 +1,3 @@
-<h1 align="center">melvin@github:~$ whoami</h1>
 
 <p align="center">
   <img
@@ -125,7 +124,6 @@ Cloud Computing Projects
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Melvin-Gounder&show_icons=true&theme=github_dark&hide_border=true"
     alt="Melvin's GitHub stats"
   />
 </p>
@@ -201,24 +199,23 @@ READY.
 
 ---
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/Melvin-Gounder">
-  <img
-    src="https://img.shields.io/badge/GitHub-Melvin--Gounder-181717?style=for-the-badge&logo=github"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://www.instagram.com/all_to_ashes/">
-  <img
-    src="https://img.shields.io/badge/Instagram-all__to__ashes-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
-</a>
-
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/all_to_ashes/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="YOUR_TIKTOK_URL">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="YOUR_DISCORD_URL">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
