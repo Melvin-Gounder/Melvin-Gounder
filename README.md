@@ -145,25 +145,48 @@ Cloud Computing Projects
 
 ---
 
-## 🎮 DOOM Terminal
+## 🎵 Spotify Now Playing
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31sy5aycctvewdkl5ahcagem4y3y&redirect=true">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sy5aycctvewdkl5ahcagem4y3y&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&profanity=false&hide_remaster=false"
+      alt="Spotify Now Playing"
+    />
+  </a>
+</p>
+
+## 🎮 DOOM Break
+
+<p align="center">
+  <b>Waiting for a build? Bored between commits?</b><br>
+  Fire up DOOM and take a quick break.
+</p>
 
 ```console
-melvin@github:~$ ./doom
+melvin@github:~$ ./play-doom
 
-[boot] loading DOOM...
-[ OK ] Initializing game engine
-[ OK ] Loading WAD
-[ OK ] Preparing browser runtime
+[ OK ] Loading boredom-killer
+[ OK ] Mounting Freedoom WAD
+[ OK ] Starting WebAssembly engine
+[ OK ] Launch sequence complete
 
-READY.
-
-> Rip and tear.
-```
+> Press play and rip and tear.
 
 <p align="center">
   <a href="https://melvin-gounder.github.io/doom-web/">
     <img
-      src="https://img.shields.io/badge/LAUNCH_DOOM-000000?style=for-the-badge&logo=github&logoColor=white"
+      src="YOUR_DOOM_GIF_URL"
+      alt="Play DOOM"
+      width="700"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://melvin-gounder.github.io/doom-web/">
+    <img
+      src="https://img.shields.io/badge/LAUNCH_DOOM-8B0000?style=for-the-badge&logo=github&logoColor=white"
       alt="Launch DOOM"
     />
   </a>
