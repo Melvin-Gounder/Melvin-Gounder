@@ -197,7 +197,7 @@ melvin@github:~$ ./play-doom
     <img
       src="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/main/assets/Doom%20Eternal%20GIF.gif"
       alt="Play DOOM"
-      width="700"
+      width="600"
     />
   </a>
 </p>
