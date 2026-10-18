@@ -1,4 +1,10 @@
 <h1 align="center">melvin@github:~$ whoami</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+Cloud;Building+cool+things+one+commit+at+a+time"
+    alt="Typing SVG"
+  />
+</p>
 
 <p align="center">
   <b>Software Engineering Student • Developer • Fiji 🇫🇯</b>
