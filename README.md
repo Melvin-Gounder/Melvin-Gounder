@@ -30,6 +30,23 @@ Status     : Building...
 ```
 ---
 
+---
+
+## 🖥️ System Boot
+
+```console
+[boot] initializing developer environment...
+
+[ OK ] Loading Java runtime
+[ OK ] Starting Spring Boot
+[ OK ] Connecting to MySQL
+[ OK ] Initializing Git
+[ OK ] Loading cloud tools
+[ OK ] Developer profile ready
+
+melvin@github:~$ _
+```
+
 ## ⚙️ Tech Stack
 
 <p align="center">
