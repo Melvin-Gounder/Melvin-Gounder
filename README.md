@@ -35,3 +35,33 @@ Status     : Building...
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,spring,mysql,git,github,linux,vscode,eclipse" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Melvin-Gounder&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Melvin's GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin-Gounder&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top languages"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Melvin-Gounder&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
