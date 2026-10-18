@@ -156,6 +156,8 @@ Cloud Computing Projects
   </a>
 </p>
 
+---
+
 ## 🎮 DOOM Break
 
 <p align="center">
@@ -176,7 +178,7 @@ melvin@github:~$ ./play-doom
 <p align="center">
   <a href="https://melvin-gounder.github.io/doom-web/">
     <img
-      src="YOUR_DOOM_GIF_URL"
+      src="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/main/assets/Doom%20Eternal%20GIF.gif"
       alt="Play DOOM"
       width="700"
     />
@@ -190,6 +192,10 @@ melvin@github:~$ ./play-doom
       alt="Launch DOOM"
     />
   </a>
+</p>
+
+<p align="center">
+  <i>Click the animation or button to launch browser-playable DOOM.</i>
 </p>
 
 <p align="center">
