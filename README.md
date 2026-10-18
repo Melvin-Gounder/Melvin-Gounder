@@ -1,7 +1,8 @@
 <h1 align="center">melvin@github:~$ whoami</h1>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+Cloud;Building+cool+things+one+commit+at+a+time"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+Cloud;Building+cool+things+one+commit+at+a+time;Learning.+Building.+Improving."
     alt="Typing SVG"
   />
 </p>
@@ -11,7 +12,10 @@
 </p>
 
 <p align="center">
-  Building cool things, one commit at a time.
+  <img
+    src="https://komarev.com/ghpvc/?username=Melvin-Gounder&label=PROFILE+VIEWS&style=flat-square"
+    alt="Profile views"
+  />
 </p>
 
 ---
@@ -28,7 +32,6 @@ Focus      : Software Development
 Learning   : Java | Spring Boot | Cloud | Networking
 Status     : Building...
 ```
----
 
 ---
 
@@ -41,17 +44,80 @@ Status     : Building...
 [ OK ] Starting Spring Boot
 [ OK ] Connecting to MySQL
 [ OK ] Initializing Git
-[ OK ] Loading cloud tools
+[ OK ] Loading Linux environment
+[ OK ] Connecting cloud services
 [ OK ] Developer profile ready
 
 melvin@github:~$ _
 ```
 
+---
+
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,spring,mysql,git,github,linux,vscode,eclipse" />
+  <img
+    src="https://skillicons.dev/icons?i=java,python,html,css,js,spring,mysql,git,github,linux,vscode,eclipse"
+    alt="Tech stack"
+  />
 </p>
+
+### Languages
+
+```text
+Java          ██████████
+Python        ███████░░░
+JavaScript    ██████░░░░
+HTML / CSS    ████████░░
+SQL           ███████░░░
+```
+
+### Currently Working With
+
+```text
+Backend       Spring Boot
+Database      MySQL / MariaDB
+Cloud         Oracle Cloud
+Version Ctrl  Git / GitHub
+OS            Linux / Windows
+```
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Melvin-Gounder/cpp_beginners_codes">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Melvin-Gounder&repo=cpp_beginners_codes&theme=github_dark&hide_border=true"
+    alt="C++ Beginner Codes"
+  />
+</a>
+
+</p>
+
+### Projects I'm Building
+
+```text
+Traffic Monitoring & Management System
+├── Java
+├── Spring Boot
+├── MySQL
+└── Web Development
+
+0/1 Knapsack Optimization
+├── Dynamic Programming
+├── Genetic Algorithm
+├── Java
+└── Algorithm Analysis
+
+Cloud Computing Projects
+├── Oracle Cloud
+├── Ubuntu
+├── Apache
+└── Networking
+```
 
 ---
 
@@ -84,8 +150,6 @@ melvin@github:~$ _
 
 ---
 
----
-
 ## 🐍 Contribution Activity
 
 <p align="center">
@@ -103,4 +167,67 @@ melvin@github:~$ _
       src="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/gh-pages/github-snake.svg"
     />
   </picture>
+</p>
+
+---
+
+## 🎮 DOOM Terminal
+
+```console
+melvin@github:~$ ./doom
+
+[boot] loading DOOM...
+[ OK ] Initializing game engine
+[ OK ] Loading WAD
+[ OK ] Preparing browser runtime
+
+READY.
+
+> Rip and tear.
+```
+
+<p align="center">
+  <a href="https://melvin-gounder.github.io/doom-web/">
+    <img
+      src="https://img.shields.io/badge/LAUNCH_DOOM-000000?style=for-the-badge&logo=github&logoColor=white"
+      alt="Launch DOOM"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>DOOM hosted with GitHub Pages</i>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Melvin-Gounder">
+  <img
+    src="https://img.shields.io/badge/GitHub-Melvin--Gounder-181717?style=for-the-badge&logo=github"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://www.instagram.com/all_to_ashes/">
+  <img
+    src="https://img.shields.io/badge/Instagram-all__to__ashes-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+```text
+melvin@github:~$ exit
+Thanks for visiting.
+```
+
 </p>
