@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-```bash
+<pre>
 melvin@github:~$ cat about_me.txt
 
 Name       : Melvin A. Gounder
@@ -24,32 +24,42 @@ Location   : Fiji 🇫🇯
 Focus      : Software Development
 Learning   : Java | Spring Boot | Cloud | Networking
 Status     : Building...
+</pre>
 
-🌐 Connect With Me
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/melvin-gounder-86bab8379">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/all_to_ashes/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.tiktok.com/@all_to_ashes">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://discord.com/users/789781649993760779">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
-⚙️ Tech Stack
+---
+
+## ⚙️ Tech Stack
+
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=java,python,html,css,js,spring,mysql,git,github,linux,vscode,eclipse"
-    alt="Tech stack"
+    alt="Tech Stack"
   />
 </p>
 
-🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
+
 <p align="center">
   <a href="https://github.com/Melvin-Gounder/cpp_beginners_codes">
     <img
@@ -59,22 +69,28 @@ Status     : Building...
   </a>
 </p>
 
-📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Melvin-Gounder&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Melvin's GitHub stats"
+    alt="Melvin's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin-Gounder&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top languages"
+    alt="Top Languages"
   />
 </p>
 
-🐍 Contribution Activity
+---
+
+## 🐍 Contribution Activity
+
 <p align="center">
   <picture>
     <source
@@ -86,13 +102,16 @@ Status     : Building...
       srcset="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/gh-pages/github-snake.svg"
     />
     <img
-      alt="GitHub contribution snake"
       src="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/gh-pages/github-snake.svg"
+      alt="GitHub Contribution Snake"
     />
   </picture>
 </p>
 
-🎵 Spotify Now Playing
+---
+
+## 🎵 Spotify Now Playing
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31sy5aycctvewdkl5ahcagem4y3y&redirect=true">
     <img
@@ -102,7 +121,10 @@ Status     : Building...
   </a>
 </p>
 
-🎮 DOOM Break
+---
+
+## 🎮 DOOM Break
+
 <p align="center">
   <b>Waiting for a build? Bored between commits?</b><br>
   Click below and play DOOM.
@@ -120,4 +142,10 @@ Status     : Building...
 
 <p align="center">
   <i>Click the animation to launch browser-playable DOOM.</i>
+</p>
+
+---
+
+<p align="center">
+  <code>melvin@github:~$ exit</code>
 </p>
