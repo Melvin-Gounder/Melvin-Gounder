@@ -10,13 +10,6 @@
   <b>Software Engineering Student • Developer • Fiji 🇫🇯</b>
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Melvin-Gounder&label=PROFILE+VIEWS&style=flat-square"
-    alt="Profile views"
-  />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
