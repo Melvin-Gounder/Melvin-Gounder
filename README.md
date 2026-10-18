@@ -198,9 +198,6 @@ READY.
 </p>
 
 ---
-
----
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div class="socials" align="center">
@@ -268,7 +265,7 @@ READY.
   }
 </style>
 
----
+
 
 <p align="center">
 
