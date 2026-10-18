@@ -110,13 +110,13 @@ Status     : Building...
 
 ---
 
-## 🎵 Spotify Now Playing
+## 🎵 Spotify
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31sy5aycctvewdkl5ahcagem4y3y&redirect=true">
+  <a href="https://open.spotify.com/user/31sy5aycctvewdkl5ahcagem4y3y">
     <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31sy5aycctvewdkl5ahcagem4y3y&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&profanity=false&hide_remaster=false"
-      alt="Spotify Now Playing"
+      src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31sy5aycctvewdkl5ahcagem4y3y&theme=tokyonight&count=3&radius=16&album=1"
+      alt="Spotify Recently Played"
     />
   </a>
 </p>
