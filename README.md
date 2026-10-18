@@ -198,15 +198,11 @@ melvin@github:~$ ./play-doom
   <i>Click the animation or button to launch browser-playable DOOM.</i>
 </p>
 
-<p align="center">
-  <i>DOOM hosted with GitHub Pages</i>
-</p>
-
 ---
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/melvin-gounder-86bab8379">
+  <a href="https://www.linkedin.com/in/melvin-gounder-86bab8379">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/all_to_ashes/">
