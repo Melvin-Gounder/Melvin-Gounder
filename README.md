@@ -165,7 +165,7 @@ Cloud Computing Projects
   Fire up DOOM and take a quick break.
 </p>
 
-```console
+<pre>
 melvin@github:~$ ./play-doom
 
 [ OK ] Loading boredom-killer
@@ -173,7 +173,8 @@ melvin@github:~$ ./play-doom
 [ OK ] Starting WebAssembly engine
 [ OK ] Launch sequence complete
 
-> Press play and rip and tear.
+&gt; Press play and rip and tear.
+</pre>
 
 <p align="center">
   <a href="https://melvin-gounder.github.io/doom-web/">
@@ -199,6 +200,7 @@ melvin@github:~$ ./play-doom
 </p>
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
