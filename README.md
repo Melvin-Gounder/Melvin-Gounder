@@ -106,6 +106,7 @@ Cloud Computing Projects
 
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=Melvin-Gounder&show_icons=true&theme=github_dark&hide_border=true"
     alt="Melvin's GitHub stats"
   />
 </p>
