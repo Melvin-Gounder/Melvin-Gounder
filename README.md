@@ -26,7 +26,23 @@ Status     : Building...
 ```
 
 ---
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/melvin-gounder-86bab8379">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/all_to_ashes/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@all_to_ashes">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/789781649993760779">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+---
 ## ⚙️ Tech Stack
 
 <p align="center">
@@ -201,19 +217,4 @@ melvin@github:~$ ./play-doom
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/melvin-gounder-86bab8379">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/all_to_ashes/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@all_to_ashes">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/789781649993760779">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
