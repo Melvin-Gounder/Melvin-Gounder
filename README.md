@@ -91,23 +91,14 @@ Status     : Building...
 
 ---
 
-## 🐍 Contribution Activity
+## 🍄 Contribution World
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/gh-pages/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/gh-pages/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Melvin-Gounder/Melvin-Gounder/gh-pages/github-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
+  <img src="./assets/contribution-world.svg" alt="Mario-style level based on my last 28 days of GitHub contributions" width="1008" />
+</p>
+
+<p align="center">
+  <sub>Each block is a day. Coins mark contributions. Mushrooms mark days with 5+ contributions.</sub>
 </p>
 
 ---
