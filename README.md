@@ -3,7 +3,7 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+Cloud;Building+cool+things+one+commit+at+a+time;Learning.+Building.+Improving."
-    alt="Typing SVG"
+    alt="Software Engineering Student — Learning. Building. Improving."
   />
 </p>
 
@@ -51,8 +51,8 @@ Status     : Building...
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,python,html,css,js,spring,mysql,git,github,linux,vscode,eclipse"
-    alt="Tech Stack"
+    src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,spring,mysql,git,github,linux,vscode,eclipse&perline=7"
+    alt="Java, C++, Python, HTML, CSS, JavaScript, Spring, MySQL, Git, GitHub, Linux, VS Code and Eclipse"
   />
 </p>
 
@@ -60,31 +60,33 @@ Status     : Building...
 
 ## 🚀 Featured Projects
 
+> A few things I've been building and learning from.
+
+| Project | Description | Explore |
+| :--- | :--- | :--- |
+| 💻 **C++ Beginner Codes** | Beginner C++ exercises covering calculations, conditionals, and programming fundamentals. | [View code](https://github.com/Melvin-Gounder/cpp_beginners_codes) |
+| 🎮 **Browser DOOM** | A browser-playable DOOM break between commits. | [Play DOOM](https://melvin-gounder.github.io/doom-web/) |
+
 <p align="center">
-  <a href="https://github.com/Melvin-Gounder/cpp_beginners_codes">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Melvin-Gounder&repo=cpp_beginners_codes&theme=github_dark&hide_border=true"
-      alt="C++ Beginner Codes"
-    />
+  <a href="https://github.com/Melvin-Gounder?tab=repositories">
+    <b>Explore all my repositories →</b>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Melvin-Gounder&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Melvin's GitHub Stats"
+    src="./github-metrics.svg"
+    alt="Melvin's GitHub activity, repository statistics and most-used languages"
+    width="700"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melvin-Gounder&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
+  <sub>Updated daily with GitHub Actions.</sub>
 </p>
 
 ---
@@ -147,5 +149,6 @@ Status     : Building...
 ---
 
 <p align="center">
-  <code>melvin@github:~$ exit</code>
+  <code>melvin@github:~$ exit</code><br>
+  <sub>Learning. Building. Improving.</sub>
 </p>
