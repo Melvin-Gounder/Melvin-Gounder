@@ -23,7 +23,6 @@ Role       : Software Engineering Student
 Location   : Fiji 🇫🇯
 Focus      : Software Development
 Learning   : Java | Spring Boot | Cloud | Networking
-Status     : Building...
 </pre>
 
 ---
