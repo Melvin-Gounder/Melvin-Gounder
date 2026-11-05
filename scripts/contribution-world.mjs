@@ -22,20 +22,34 @@ export function render(days, username, demo = false) {
   out.push('<path d="M0 278L100 195L210 278L350 202L475 278L650 190L790 278L920 210L1008 278V340H0Z" fill="#284d63"/><path d="M0 290L170 244L340 290L540 230L750 290L900 250L1008 290V340H0Z" fill="#346a66"/>');
   days.forEach((day,i) => {
     const x=30+i*34, n=day.contributionCount;
-    out.push(`<g><title>${day.date}: ${n} contributions</title><rect x="${x}" y="272" width="28" height="28" rx="2" fill="${n?'#e9a33b':'#394763'}" stroke="${n?'#ffe1a0':'#64718b'}" stroke-width="2"/><text x="${x+14}" y="292" text-anchor="middle" font-size="19" font-weight="bold">${n?'?':'·'}</text><text x="${x+14}" y="318" text-anchor="middle" class="tiny">${n}</text>`);
+    const hit=(i+.5)/28, after=hit+.008;
+    out.push(`<g><title>${day.date}: ${n} contributions</title><rect x="${x}" y="272" width="28" height="28" rx="2" fill="${n?'#e9a33b':'#394763'}" stroke="${n?'#ffe1a0':'#64718b'}" stroke-width="2">${n?`<animate attributeName="fill" values="#e9a33b;#e9a33b;#fff1b0;#967348;#967348" keyTimes="0;${hit};${after};${after+.008};1" dur="22s" repeatCount="indefinite"/>`:''}</rect><text x="${x+14}" y="292" text-anchor="middle" font-size="19" font-weight="bold">${n?'?':'·'}</text><text x="${x+14}" y="318" text-anchor="middle" class="tiny">${n}</text><g><animate attributeName="opacity" values="1;0;0" keyTimes="0;${hit};1" calcMode="discrete" dur="22s" repeatCount="indefinite"/>`);
     for(let j=0;j<Math.min(n,3);j++) out.push(`<ellipse cx="${x+14}" cy="${255-j*19}" rx="6" ry="8" fill="#ffd65a" stroke="#fff0ac" stroke-width="2"/><path d="M${x+14} ${250-j*19}v10" stroke="#b7791f" stroke-width="2"/>`);
     if(n>=5) out.push(`<path d="M${x+6} 188v-7h4v-4h8v4h4v7z" fill="#ff6066"/><path d="M${x+10} 188v8h8v-8" fill="#ffe2b1"/><rect x="${x+11}" y="180" width="4" height="4" fill="white"/>`);
-    out.push('</g>');
+    out.push('</g></g>');
   });
   // Pixel character is drawn here, with no external image dependencies.
   const sprite=['....RRRR....','...RRRRRRR..','...HHSSK....','..HSHSSSK...','..HSSHHSS...','....SSSS....','...RRBRR....','..RRRBRRR...','.SSBBBBSS...','...BBBBBB...','...BB.BB....','..HH...HH...'];
   const colors={R:'#fa4e50',H:'#5c3329',S:'#ffd2a1',K:'#162035',B:'#4384f5'};
-  const path=days.map((d,i)=>`${30+i*34} ${d.contributionCount?222:236}`).join(';');
-  out.push(`<g class="runner"><animateTransform attributeName="transform" type="translate" values="${path};948 236;30 236" dur="24s" repeatCount="indefinite"/>`);
-  sprite.forEach((row,y)=>[...row].forEach((c,x)=>{if(colors[c])out.push(`<rect x="${x*2}" y="${y*2}" width="2" height="2" fill="${colors[c]}"/>`);}));
+  // One shared 22-second timeline: jump apex and coin collection coincide.
+  const positions=[], times=[];
+  for(let i=0;i<28;i++) for(let step=0;step<12;step++) {
+    const p=step/12, n=days[i].contributionCount;
+    const jump=n ? 4*p*(1-p)*(n>=5?65:n>=3?46:27) : Math.sin(p*Math.PI*4)*1.5;
+    positions.push(`${(13+i*34+p*34).toFixed(2)} ${(236-jump).toFixed(2)}`);
+    times.push(((i+p)/28).toFixed(6));
+  }
+  positions.push('965 236');times.push('1');
+  out.push(`<g class="runner"><animateTransform attributeName="transform" type="translate" values="${positions.join(';')}" keyTimes="${times.join(';')}" dur="22s" repeatCount="indefinite"/>`);
+  const frames=[sprite.slice(0,9).concat(['...BBB.BB...','..BB....BB..','.HH......HH.']),sprite.slice(0,9).concat(['...BBBBB....','....BBB.....','....HHHH....']),sprite.slice(0,9).concat(['...BB.BBB...','..BB....BB..','.HH......HH.'])];
+  frames.forEach((frame,k)=>{
+    out.push(`<g opacity="${k===0?1:0}"><animate attributeName="opacity" values="${[0,1,2,1,0].map(f=>f===k?1:0).join(';')}" keyTimes="0;.25;.5;.75;1" dur=".32s" calcMode="discrete" repeatCount="indefinite"/>`);
+    frame.forEach((row,y)=>[...row].forEach((c,x)=>{if(colors[c])out.push(`<rect x="${x*3-4}" y="${y*3}" width="3" height="3" fill="${colors[c]}"/>`);}));
+    out.push('</g>');
+  });
   out.push('</g><rect y="330" width="1008" height="7" fill="#73d89a"/><path d="M0 337H1008V346H0Z" fill="#38765a"/>');
   out.push(`<text x="28" y="370" class="label">1 BLOCK = 1 DAY · COINS = 1 / 2 / 3+ · MUSHROOM = 5+</text><text x="28" y="390" class="tiny">Numbers show exact daily contributions · Updated daily · Fan-made pixel platformer</text></svg>`);
-  return out.join('\n');
+  return out.join('\n').replace(/(<ellipse[^>]*?)\/>/g,'$1><animate attributeName="rx" values="6;1;6" dur=".65s" repeatCount="indefinite"/></ellipse>');
 }
 
 async function main() {
