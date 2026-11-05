@@ -31,7 +31,6 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           user: Melvin-Gounder
-          repo: Melvin-Gounder
           committer_branch: main
           filename: github-metrics.svg
 
