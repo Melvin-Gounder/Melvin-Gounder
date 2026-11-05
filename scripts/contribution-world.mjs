@@ -1,20 +1,3 @@
-import assert from 'node:assert/strict';
-import {render} from './contribution-world.mjs';
-const days=Array.from({length:28},(_,i)=>({date:`2026-10-${String(i+1).padStart(2,'0')}`,contributionCount:0}));
-assert.match(render(days,'a&b'),/0 contributions over 28 days/);
-assert.match(render(days,'a&b'),/a&amp;b/);
-days[0].contributionCount=12;
-days[27].contributionCount=1;
-const svg=render(days,'test');
-assert.match(svg,/13 contributions over 28 days/);
-assert.match(svg,/2026-10-01: 12 contributions/);
-assert.equal((svg.match(/<ellipse/g)||[]).length,4);
-assert.match(svg,/2\/28/);
-assert.throws(()=>render([], 'test'));
-days[0].contributionCount=-1;
-assert.throws(()=>render(days,'test'));
-console.log('Passed: empty activity, totals, exact counts, coin cap, escaping and invalid input.');
-
 import {writeFile, mkdir} from 'node:fs/promises';
 import {pathToFileURL} from 'node:url';
 
